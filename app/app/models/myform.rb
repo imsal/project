@@ -1,0 +1,2 @@
+class Myform < ApplicationRecord
+end
